@@ -1,0 +1,25 @@
+{
+  "name": "typescript-findrefpath",
+  "version": "0.0.0",
+  "description": "Construct Typescript reference paths relative to the current files location in a directory structure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oivvio/typescript-findrefpath.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Oivvio Polite <oivvio@liberationtech.net> (http://liberationtech.net/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oivvio/typescript-findrefpath/issues"
+  },
+  "homepage": "https://github.com/oivvio/typescript-findrefpath",
+  "devDependencies": {
+    "mocha": "^2.2.4"
+  }
+}
